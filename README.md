@@ -1,3 +1,3 @@
 # repojuan
 es mi primer repo
-agrego algo
+Estoy en el repo de Juan somos los GitTeam?
