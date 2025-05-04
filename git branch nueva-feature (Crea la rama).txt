@@ -1,0 +1,4 @@
+git branch                nueva-feature (Crea la rama)
+git checkout              nueva-feature (Cambia a la nueva rama)
+O, de forma combinada:
+git checkout -b           nueva-feature (Crea y cambia a la nueva rama)
