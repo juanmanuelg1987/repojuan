@@ -1,0 +1,5 @@
+git checkout -b rama2                     esto para crear la rama y pasar a la vez
+echo "Contenido" > archivo1.txt           creo archivo1, y a dentro de comillas el contenido
+git add archivo1.txt                      agrego los cambios 
+git commit -m "Agrego archivo1.txt"       comitio   
+git push --set-upstream origin rama2       push
