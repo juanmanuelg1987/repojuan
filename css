@@ -1,0 +1,17 @@
+.pepito {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.pepito img {
+  height: 60px;
+  width: auto;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.pepito img:hover {
+  transform: scale(1.1);
+}
