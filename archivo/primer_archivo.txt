@@ -1,15 +1,24 @@
-Hola Denis llegaste a el primer_archivo.txt , agrega algo aca
-Hola Juan llegue hasta el primer_archivo.txt.
-Lee esto con atención
-¿Cómo se despiden los químicos? Ácido un placer.
-¿Cuál es el café más peligroso del mundo? El ex-preso
-Soy un tipo saludable. - ¿Te gusta comer bien?- No, pero siempre me saludan.
-¿Qué hace una vaca con los ojos cerrados? Leche concentrada.
-Doctor, ¿tendré cura?: Por supuesto, cura, misa y funeral
-El último
-¿Tienes WiFi?
-Sí
-¿Y cual es la clave?
-Tener dinero y pagarlo.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Botón flotante WhatsApp</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
 
-holaaaaaaaaa
+  <h1>Mi Página con Botón Flotante</h1>
+  <p>Contenido de ejemplo...</p>
+
+  <!-- Botón flotante de WhatsApp -->
+  <a href="https://wa.me/5491123456789" 
+     class="pepito" 
+     target="_blank" 
+     aria-label="Chat en WhatsApp">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" 
+         alt="WhatsApp">
+  </a>
+
+</body>
+</html>
