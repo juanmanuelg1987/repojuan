@@ -23,3 +23,14 @@
   width: 30px;
   height: auto;
 }
+//🔍 ¿Qué hace flex acá?
+	•	display: flex: activa flexbox en el botón.
+	•	align-items: center y justify-content: center: centran el ícono tanto vertical como horizontalmente dentro del círculo.
+
+⸻
+
+🔧 Si querés cambiar el tamaño total del botón, ajustá width y height.
+🟢 Si querés cambiar el color de fondo, modificá background-color.
+
+¿Querés que lo combine con un texto que aparezca al pasar el mouse o en pantallas más grandes? También se puede hacer.
+
